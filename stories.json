@@ -1,0 +1,178 @@
+{
+ "briefs": [
+  {
+   "lat": 15.6,
+   "lon": 32.5,
+   "n": 13,
+   "text": "KHARTOUM — Drone strikes hit homes and a United Nations building in Sudan's capital."
+  },
+  {
+   "lat": 1.6,
+   "lon": 29.3,
+   "n": 14,
+   "text": "ITURI, CONGO — WHO warns fighting is disrupting the Ebola response around a hospital."
+  },
+  {
+   "lat": 4.9,
+   "lon": 6.1,
+   "n": 15,
+   "text": "BAYELSA, NIGERIA — Toll in the funeral-boat disaster reaches 24 as the search goes on."
+  },
+  {
+   "lat": 31.4,
+   "lon": 34.3,
+   "n": 16,
+   "text": "GAZA — Strike on a food truck kills three; witnesses cite World Central Kitchen papers."
+  },
+  {
+   "lat": 32.2,
+   "lon": 35.9,
+   "n": 17,
+   "text": "WEST BANK — Opposition leader Eisenkot calls settler attacks “Jewish terrorism”."
+  },
+  {
+   "lat": 50.8,
+   "lon": 4.4,
+   "n": 18,
+   "text": "BRUSSELS — NATO holds emergency talks on Poland after Russian objects came down."
+  },
+  {
+   "lat": 50.1,
+   "lon": 8.7,
+   "n": 19,
+   "text": "EURO AREA — Inflation rises to 4.0% in Eurostat's latest figures for the bloc."
+  },
+  {
+   "lat": 37.8,
+   "lon": -122.4,
+   "n": 20,
+   "text": "MATHS — Debate rages over the Claude-assisted Riemann “proof”; Clay lists it open."
+  },
+  {
+   "lat": -41.3,
+   "lon": 174.8,
+   "n": 21,
+   "text": "WELLINGTON — NZ hold India to a draw; Australia climb to second in the Test table."
+  },
+  {
+   "lat": -34.6,
+   "lon": -58.4,
+   "n": 22,
+   "text": "BUENOS AIRES — Poland's president opens an Argentina–Chile tour in the capital."
+  }
+ ],
+ "continents_line": "6 CONTINENTS",
+ "count_line": "22 STORIES",
+ "date_line": "MONDAY",
+ "full_date": "23 NOVEMBER 2026",
+ "hero": {
+  "headline": "COP31 ENDS WITHOUT A DEAL",
+  "lat": 36.9,
+  "lon": 30.7,
+  "n": 1,
+  "summary": "The longest UN climate summit on record closed in Antalya with no overarching agreement, after the EU and climate-vulnerable states rejected a final text that never mentioned fossil fuels. UN chief António Guterres said he was “deeply disappointed”.",
+  "tag": "CLIMATE · ANTALYA, TÜRKIYE"
+ },
+ "panels": [
+  {
+   "accent": "teal",
+   "headline": "Ukraine sinks Russian corvette in Libya",
+   "lat": 32.1,
+   "lon": 20.1,
+   "n": 2,
+   "summary": "Zelensky confirmed Monday that seven sea drones sank the Merkury, one of Russia's newest warships, in Benghazi harbour, and hit the weapons ship Angara.",
+   "tag": "WAR AT SEA · BENGHAZI, LIBYA"
+  },
+  {
+   "accent": "coral",
+   "headline": "Strike toll reaches 15 around Kyiv",
+   "lat": 50.5,
+   "lon": 30.5,
+   "n": 3,
+   "summary": "Rescuers pulled a seven-year-old boy alive from Dymer rubble after 14 hours as the toll rose to 15: 11 in the collapsed block, three at a supermarket, one in Bila Tserkva.",
+   "tag": "UKRAINE · DYMER, KYIV REGION"
+  },
+  {
+   "accent": "amber",
+   "headline": "Indonesia confirms 24 dead in factory fire",
+   "lat": -6.2,
+   "lon": 106.4,
+   "n": 4,
+   "summary": "Officials confirmed 24 dead at the Fonusa Agung Mulia confectionery plant, with about 30 workers still missing as rescuers searched the unstable wreckage.",
+   "tag": "DISASTER · CIKANDE, BANTEN"
+  },
+  {
+   "accent": "teal",
+   "headline": "Nvidia brings back Huang; Wall Street roars",
+   "lat": 40.7,
+   "lon": -74.0,
+   "n": 5,
+   "summary": "Nvidia's board reinstated Jensen Huang as chief executive; the shares leapt about 30% and the S&P 500 jumped 4.73% — its best day since April 2025 — ending a seven-session slide.",
+   "tag": "MARKETS · NEW YORK"
+  },
+  {
+   "accent": "coral",
+   "headline": "Democrats seal 258-seat House majority",
+   "lat": 38.9,
+   "lon": -77.0,
+   "n": 6,
+   "summary": "A North Carolina recount flipped the final seat — Chuck Hubbard unseating Virginia Foxx — giving Democrats at least 258 seats, their largest majority since 1992.",
+   "tag": "US POLITICS · WASHINGTON"
+  },
+  {
+   "accent": "amber",
+   "headline": "Iran vows to fight the US naval blockade",
+   "lat": 35.7,
+   "lon": 51.4,
+   "n": 7,
+   "summary": "After what Trump called Iran's heaviest missile-and-drone week in over a year, Tehran vowed to use “all available tools” against the US blockade; Qatar's PM went to Washington.",
+   "tag": "THE GULF · TEHRAN"
+  },
+  {
+   "accent": "teal",
+   "headline": "BepiColombo safe at Mercury after a glitch",
+   "lat": null,
+   "lon": null,
+   "n": 8,
+   "summary": "ESA revealed its probe slipped into safe mode when Saturday's orbit burn ended early on a software glitch — but BepiColombo is stable at Mercury after an eight-year journey.",
+   "tag": "SPACE · MERCURY"
+  },
+  {
+   "accent": "coral",
+   "headline": "AI breast-screening trial opens to 700,000",
+   "lat": 51.5,
+   "lon": -0.1,
+   "n": 9,
+   "summary": "The NHS EDITH trial is inviting nearly 700,000 women to test whether AI can spot breast cancers earlier and safely cut the human readers needed per mammogram.",
+   "tag": "HEALTH · ENGLAND"
+  },
+  {
+   "accent": "amber",
+   "headline": "India gives flood-hit Nepal a $1.62bn package",
+   "lat": 27.7,
+   "lon": 85.3,
+   "n": 10,
+   "summary": "India announced a package worth 240 billion Nepalese rupees ($1.62 billion) for flood-hit Nepal, deepening New Delhi's support for its Himalayan neighbour.",
+   "tag": "SOUTH ASIA · NEW DELHI"
+  },
+  {
+   "accent": "teal",
+   "headline": "Mexico captures “El Chapo Isidro”",
+   "lat": 25.6,
+   "lon": -108.3,
+   "n": 11,
+   "summary": "Mexican forces captured Fausto Isidro Meza Flores — “El Chapo Isidro”, one of the FBI's ten most wanted — in the Sinaloa city of Guasave.",
+   "tag": "MEXICO · GUASAVE, SINALOA"
+  },
+  {
+   "accent": "coral",
+   "headline": "Alcaraz topples Zverev for ATP Finals title",
+   "lat": 45.1,
+   "lon": 7.7,
+   "n": 12,
+   "summary": "Carlos Alcaraz powered past world number one Alexander Zverev 6-2, 7-6(7) in Turin to lift the ATP Finals trophy, a statement win over the top seed.",
+   "tag": "TENNIS · TURIN"
+  }
+ ],
+ "sources_line": "Sources: Reuters · AP · Al Jazeera · BBC · ESA · Euronews · The War Zone · Principia · Off the Wire — every story day-checked; full list in SOURCES.md"
+}
